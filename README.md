@@ -41,5 +41,5 @@
   - [Google Cybersecurity Certificate Badge](https://www.credly.com/badges/4bea2ea9-726f-49fc-b8a6-0e0ff0a268f9/public_url)
 
 - <h2> 🤳 Connect with me:</h2>
-[instagram]: https://www.instagram.com/camposari_?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr
-[linkedin]: https://www.linkedin.com/in/ariel-campos-463054135
+[instagram](https://www.instagram.com/camposari_?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)
+[linkedin](https://www.linkedin.com/in/ariel-campos-463054135)
