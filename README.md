@@ -29,7 +29,7 @@
 
 - <b>🎓 Certificates</b>
 
-  - [Foundations of Cybersecurity](https://github.com/Camposariel4/Camposariel4/assets/153866921/5d5f80e3-ad14-491e-b9c2-d1153dae4edc)
+  - [Foundations of Cybersecurity](https://github.com/Camposariel4/Camposariel4/assets/153866921/dbae4b9d-9bcf-44ae-b1cb-d7d19440bb88)
   - [Play it safe: Manage security risks](https://github.com/Camposariel4/Camposariel4/assets/153866921/8518fc14-ac27-49f5-906c-6d5bb3c743fe)
   - [Connect and protect: Networks and Network](https://github.com/Camposariel4/Camposariel4/assets/153866921/ae005c35-4ab1-4384-9672-115895df3664)
   - [Tools of Trade: Linux and SQL](https://github.com/Camposariel4/Camposariel4/assets/153866921/e6f7c2ef-cb1a-4990-9017-f264a13a47c2)
