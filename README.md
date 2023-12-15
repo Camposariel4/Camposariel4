@@ -2,15 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>control assessment</b>
-  - https://docs.google.com/document/d/1BrdwxqVsDQbW_I3uleIINlIf8EVsHW3fy5Vs1IzOObk/edit
-- <b>stakeholder memorandum</b>
-  - https://docs.google.com/document/d/1Yt7UY4ZRjUCv69-wuv-c82xTJVn7Ys3-5PGJAH9ApDk/edit
-- <b>Insident report analysis</b>
-  - https://docs.google.com/document/d/1RSPnm49BKTskfNHDTyawNpFkoWmqet93je0e7i7ZKCs/edit?resourcekey=0-sd-B1UtNcoqRq1bfVcLobQ
-- <b> Use Linux commands to manage file permissions and apply filters to SQL queries</b>
-  - https://docs.google.com/document/d/1QGucNEaMdvNeGZAIsZ4WAuwpyI3pCNL0t508f2tcjUo/edit
-  - https://docs.google.com/document/d/1nL-UZ7n3eXv4xnigJu_ffMC7tmfoJafb5Bd9vzTdbpM/edit
+- <b>[control assessment]</b> https://docs.google.com/document/d/1BrdwxqVsDQbW_I3uleIINlIf8EVsHW3fy5Vs1IzOObk/edit
+- <b>[stakeholder memorandum]</b> https://docs.google.com/document/d/1Yt7UY4ZRjUCv69-wuv-c82xTJVn7Ys3-5PGJAH9ApDk/edit
+- <b>[Insident report analysis]</b> https://docs.google.com/document/d/1RSPnm49BKTskfNHDTyawNpFkoWmqet93je0e7i7ZKCs/edit?resourcekey=0-sd-B1UtNcoqRq1bfVcLobQ
+- <b>[Use Linux commands to manage file permissions]</b> https://docs.google.com/document/d/1QGucNEaMdvNeGZAIsZ4WAuwpyI3pCNL0t508f2tcjUo/edit
+- <b>[apply filters to SQL queries]</b> https://docs.google.com/document/d/1nL-UZ7n3eXv4xnigJu_ffMC7tmfoJafb5Bd9vzTdbpM/edit
   
 - <b>Vulnerability Assessment Report</b>
   - https://docs.google.com/document/d/116w84mUXCqTRZYNZv6Lzaf_PxCKnsNE6F8vsBqwrBdU/edit
