@@ -17,7 +17,7 @@
 - <b>Algorithm for file updates in python</b>
   - [File updates](https://docs.google.com/document/d/1qO3V-Y3KLUF0U2zsuvikCcEIR8dwUs8ZIkTIUFAKFLU/edit)
 
-- <b>Skills</b>
+- <b>💡 Skills</b>
   - Threats, risks, and vulnerabilities 
   - incident response                        
   - Security frameworks and controls
@@ -27,7 +27,7 @@
   - SQL
   - Linux command Line
     
-- <b>Certificates</b>
+- <b>🎓 Certificates</b>
 
   - [Foundations of Cybersecurity](https://coursera.org/share/90c6059b85789bfb446f2581d34110a1)
   - [Play it safe: Manage security risks](https://coursera.org/share/acd84588eb376da195053122c2e33691)
