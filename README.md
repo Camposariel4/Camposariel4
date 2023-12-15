@@ -26,17 +26,17 @@
   - Python
   - SQL
   - Linux command Line
-    
+
 - <b>🎓 Certificates</b>
 
-  - [Foundations of Cybersecurity](https://github.com/Camposariel4/Camposariel4/assets/153866921/5d5f80e3-ad14-491e-b9c2-d1153dae4edc)
-  - [Play it safe: Manage security risks](https://coursera.org/share/acd84588eb376da195053122c2e33691)
-  - [Connect and protect: Networks and Network Security](https://coursera.org/share/cf4a22f10281f2fb8bc8f735cc5c323f)
-  - [Tools of Trade: Linux and SQL](https://coursera.org/share/e3c66389536bddbb6d2afbfb48be3239)
-  - [Assets, Threats, and Vulnerabilities](https://coursera.org/share/7e3fd478e3e5ce4e0794aa662bc4a2d0)
-  - [Soumd the Alarm: Detection and Response](https://coursera.org/share/077acd94e19c6c9d0258827ba5f078d1)
-  - [Automate Cybersecurity tasks with python](https://coursera.org/share/3a3f1791834a4783ad55c8a55a6cc806)
-  - [Put it to work: Prepare for Cybersecurity jobs](https://coursera.org/share/b26bc777dd011501a5f3150aa053df94)
+  - [Foundations of Cybersecurity](github.com/Camposariel4/Camposariel4/assets/153866921/5d5f80e3-ad14-491e-b9c2-d1153dae4edc)
+  - [Play it safe: Manage security risks](https://github.com/Camposariel4/Camposariel4/assets/153866921/8518fc14-ac27-49f5-906c-6d5bb3c743fe)
+  - [Connect and protect: Networks and Network](https://github.com/Camposariel4/Camposariel4/assets/153866921/ae005c35-4ab1-4384-9672-115895df3664)
+  - [Tools of Trade: Linux and SQL](https://github.com/Camposariel4/Camposariel4/assets/153866921/e6f7c2ef-cb1a-4990-9017-f264a13a47c2)
+  - [Assets, Threats, and Vulnerabilities](https://github.com/Camposariel4/Camposariel4/assets/153866921/0cdeec6f-7533-4b3f-a646-13381a59f11d)
+  - [Soumd the Alarm: Detection and Response](https://github.com/Camposariel4/Camposariel4/assets/153866921/9aadcc40-ac90-4934-b7fb-b6fd51512d1e)
+  - [Automate Cybersecurity tasks with python](https://github.com/Camposariel4/Camposariel4/assets/153866921/6bf1242b-82e1-4840-aaed-cd80eda57e97)
+  - [Put it to work: Prepare for Cybersecurity jobs](https://github.com/Camposariel4/Camposariel4/assets/153866921/0c06c9e3-6a15-48e2-867d-72e6e9ac7974)
 - <b>Badges</b>
   - [Google Cybersecurity Certificate Badge](https://www.credly.com/badges/4bea2ea9-726f-49fc-b8a6-0e0ff0a268f9/public_url)
 
