@@ -29,7 +29,7 @@
     
 - <b>🎓 Certificates</b>
 
-  - [Foundations of Cybersecurity](https://coursera.org/share/90c6059b85789bfb446f2581d34110a1)
+  - [Foundations of Cybersecurity](https://github.com/Camposariel4/Camposariel4/assets/153866921/5d5f80e3-ad14-491e-b9c2-d1153dae4edc)
   - [Play it safe: Manage security risks](https://coursera.org/share/acd84588eb376da195053122c2e33691)
   - [Connect and protect: Networks and Network Security](https://coursera.org/share/cf4a22f10281f2fb8bc8f735cc5c323f)
   - [Tools of Trade: Linux and SQL](https://coursera.org/share/e3c66389536bddbb6d2afbfb48be3239)
